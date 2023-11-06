@@ -3,11 +3,12 @@ There are files for zero flux, albedo, and side source, and most of them have so
 
 I wrote and ran these codes using Python3 (Python3.6 in particular), maybe they will work with Python2, I do not know.
 
-To run them you will need to install the following things (at least, maybe more):
-	- Python 3
-	- SciPy for Python3
-	- NumPy for Python3
-	- matplotlib for Python3
+To run them you will need to install the following things (at least, maybe more)
+- Python 3
+- SciPy for Python3
+- NumPy for Python3
+- matplotlib for Python3
+ 
 Make sure you do not install the Python 2 versions.
 
 Hopfully the files are self explanatory and hopefully they work. They did for me but that doesn't mean they are fool proof.
